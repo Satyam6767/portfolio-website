@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Anime Collections",
+    "image": "./projectImages/Anime_Image 1.jpg",
+    "description": "Web-app for anime lover. Colections of many anime .",
+    "technologies": "HTML | CSS | Javascript | React",
+    "github": "https://github.com/Satyam6767/Anime_Collection/tree/main",
+    "deployed": "https://anime-collection-rho.vercel.app/",
+    "bgcolor": "#f37737",
+    "id": "1"
+  },
+  {
+    "title": "Crypto Price Viewer", 
+    "image": "./projectImages/crypto.jpg",
+    "technologies": " HTML | CSS | React | JavaScript | Coin Gecko API |Chart.js",
+    "description": "Developed a web application to provide real-time cryptocurrency price checking. The app allows users to track the latest prices of various cryptocurrencies and includes a dynamic graph for visualizing price trends over time.",
+    "github": "https://github.com/Satyam6767/Price_viewer",
+    "deployed": "",
+    "bgcolor": "#29cbe0",
+    "id": "2"
+  },
+  {
+    "title": "Twitter Clone",
+    "image": "./projectImages/twitter_image 1.jpg",
+    "technologies": "HTML | JS | React | Node | MongoDB | Express",
+    "description": "Make a Twitter clone app which have these functions - Create account, delete account, follow, unfollow, tweet, like",
+    "github": "https://github.com/Satyam6767/clone_twitter",
+    "deployed": "https://clone-twitter-8knz.vercel.app/",
+    "bgcolor": "#6c4bf4",
+    "id": "3"
+  },
+
+  {
+    "title": "Task Management system",
+    "image": "./projectImages/task managemet.jpg",
+    "technologies": "HTML | JS | React | Node | MongoDB | Express",
+    "description": "Make a task management system for where we can add a task , remove a task. And the data is stored on MongoDb",
+    "github": "https://github.com/Satyam6767/Task-management-system",
+    "deployed": "https://task-management-system-dun.vercel.app/",
+    "bgcolor": "#6c4bf4",
+    "id": "4"
+  }
+]
