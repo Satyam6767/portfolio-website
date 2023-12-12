@@ -2,7 +2,7 @@
   {
     "title": "Create a Web Page",
     "company": "Oasis Infobyte",
-    "image": "./projectImages/Internship.jpg",
+    "image": "./projectImages/internship.jpg",
     "description": "I developed an admin dashboard for web page of crypto website. I also created a web page for landing page. Both projects were designed with user experience in mind and demonstrate my skills in web development and ability to deliver high-quality solutions",
     "technologies": "HTML | CSS | Bootstrap",
     "bgcolor": "#f37737",
@@ -12,7 +12,7 @@
   {
     "title": "web development",
     "company": "Lets-Grow",
-    "image": "./projectImages/Internship.jpg",
+    "image": "./projectImages/internship.jpg",
     "description": "I create a to do web app. I also created a web page for calculator. Both projects were designed with user experience in mind and demonstrate my skills in web development and ability to deliver high-quality solutions",
     "technologies": "HTML | CSS | JS",
     "bgcolor": "#f85781",
@@ -23,7 +23,7 @@
   {
     "title": "Project Intern",
     "company": "Kohli media group",
-    "image": "./projectImages/Internship.jpg",
+    "image": "./projectImages/internship.jpg",
     "description": "I worked in a team who developed a login Page. We also developed an UI for the application in figma.",
     "technologies": "HTML | CSS | JS | Figma",
     "bgcolor": "#ffcc33",

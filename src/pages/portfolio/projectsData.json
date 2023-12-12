@@ -1,7 +1,7 @@
 [
   {
     "title": "Anime Collections",
-    "image": "./projectImages/Anime_Image 1.jpg",
+    "image": "./projectImages/anime.jpg",
     "description": "Web-app for anime lover. Colections of many anime .",
     "technologies": "HTML | CSS | Javascript | React",
     "github": "https://github.com/Satyam6767/Anime_Collection/tree/main",
@@ -21,7 +21,7 @@
   },
   {
     "title": "Twitter Clone",
-    "image": "./projectImages/twitter_image 1.jpg",
+    "image": "./projectImages/twitter.jpg",
     "technologies": "HTML | JS | React | Node | MongoDB | Express",
     "description": "Make a Twitter clone app which have these functions - Create account, delete account, follow, unfollow, tweet, like",
     "github": "https://github.com/Satyam6767/clone_twitter",
@@ -43,7 +43,7 @@
 
   {
     "title": "Destination Explorer",
-    "image": "./projectImages/Destination Explorer.jpg",
+    "image": "./projectImages/destination.jpg",
     "technologies": "HTML | CSS | Bootstrap | JS | React | Node ",
     "description": "Create an immersive Destination Explorer application that allows users to seamlessly discover and organize their travel plans. Incorporate features to add and remove destinations",
     "github": "https://github.com/Satyam6767/Destination_explorer",
@@ -54,7 +54,7 @@
 
   {
     "title": "HealthCare", 
-    "image": "./projectImages/HealthCare.jpg",
+    "image": "./projectImages/healthcare.jpg",
     "technologies": " HTML | CSS | JS ",
     "description": "Build a friendly Hospital Website where people can easily find and manage their medical appointments or records. I'm using simple technologies like HTML, CSS, and JavaScript to make it easy for everyone to use.",
     "github": "https://github.com/Satyam6767/HealthCare",
@@ -65,7 +65,7 @@
 
   {
     "title": "Sbi-Dashboard",
-    "image": "./projectImages/Sbi Dashboard.jpg",
+    "image": "./projectImages/sbiDashboard.jpg",
     "technologies": "HTML | CSS |Bootstrap | JS | React ",
     "description": " Develop a user-friendly SBI Dashboard displaying revenue across different quarters. Using HTML, CSS, and JavaScript, I'm creating a simple yet effective website where you can easily view and manage your revenue data.",
     "github": "https://github.com/Satyam6767/sbi-Dashboard",
@@ -75,7 +75,7 @@
   },
   {
     "title": "Sorting Visualizer",
-    "image": "./projectImages/Sorting Visualizer.jpg",
+    "image": "./projectImages/sortingvisualizer.jpg",
     "technologies": "HTML | CSS | JS",
     "description": "Create an engaging Sorting Visualizer project using HTML, CSS, and JavaScript, where users can witness sorting algorithms like Bubble Sort and Merge Sort in action. Watch as the algorithms dynamically rearrange elements, providing a visually informative and interactive experience.",
     "github": "https://github.com/Satyam6767/Sorting_visualizer/tree/main",
