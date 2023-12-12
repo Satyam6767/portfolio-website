@@ -37,6 +37,12 @@ const Portfolio = () => {
 
   return (
     <section className="portfolio">
+      <PageHeader title="Projects" description="" />
+      <div className="row">
+        <ProjectList />
+      </div>
+
+
       <PageHeader
         title="Internships"
         description=""
@@ -44,10 +50,7 @@ const Portfolio = () => {
       <div className="row">
         <ExperienceList />
       </div>
-      <PageHeader title="Projects" description="" />
-      <div className="row">
-        <ProjectList />
-      </div>
+      
     </section>
   );
 };

@@ -10,9 +10,9 @@
     "id": "1"
   },
   {
-    "title": "Crypto Price Viewer", 
+    "title": "Crypto Coin", 
     "image": "./projectImages/crypto.jpg",
-    "technologies": " HTML | CSS | React | JavaScript | Coin Gecko API |Chart.js",
+    "technologies": " HTML | JS | React | CoinGecko API |Chart.js",
     "description": "Developed a web application to provide real-time cryptocurrency price checking. The app allows users to track the latest prices of various cryptocurrencies and includes a dynamic graph for visualizing price trends over time.",
     "github": "https://github.com/Satyam6767/Price_viewer",
     "deployed": "",
@@ -31,13 +31,58 @@
   },
 
   {
-    "title": "Task Management system",
+    "title": "Task Management",
     "image": "./projectImages/task managemet.jpg",
     "technologies": "HTML | JS | React | Node | MongoDB | Express",
     "description": "Make a task management system for where we can add a task , remove a task. And the data is stored on MongoDb",
     "github": "https://github.com/Satyam6767/Task-management-system",
     "deployed": "https://task-management-system-dun.vercel.app/",
-    "bgcolor": "#6c4bf4",
+    "bgcolor": "#ffcc33",
     "id": "4"
+  },
+
+  {
+    "title": "Destination Explorer",
+    "image": "./projectImages/Destination Explorer.jpg",
+    "technologies": "HTML | CSS | Bootstrap | JS | React | Node ",
+    "description": "Create an immersive Destination Explorer application that allows users to seamlessly discover and organize their travel plans. Incorporate features to add and remove destinations",
+    "github": "https://github.com/Satyam6767/Destination_explorer",
+    "deployed": "https://destination-explorer.vercel.app/",
+    "bgcolor": "#f37737",
+    "id": "5"
+  },
+
+  {
+    "title": "HealthCare", 
+    "image": "./projectImages/HealthCare.jpg",
+    "technologies": " HTML | CSS | JS ",
+    "description": "Build a friendly Hospital Website where people can easily find and manage their medical appointments or records. I'm using simple technologies like HTML, CSS, and JavaScript to make it easy for everyone to use.",
+    "github": "https://github.com/Satyam6767/HealthCare",
+    "deployed": "https://health-care-hospital.vercel.app/",
+    "bgcolor": "#29cbe0",
+    "id": "6"
+  }, 
+
+  {
+    "title": "Sbi-Dashboard",
+    "image": "./projectImages/Sbi Dashboard.jpg",
+    "technologies": "HTML | CSS |Bootstrap | JS | React ",
+    "description": " Develop a user-friendly SBI Dashboard displaying revenue across different quarters. Using HTML, CSS, and JavaScript, I'm creating a simple yet effective website where you can easily view and manage your revenue data.",
+    "github": "https://github.com/Satyam6767/sbi-Dashboard",
+    "deployed": "https://sbi-dashboard.vercel.app/",
+    "bgcolor": "#6c4bf4",
+    "id": "7"
+  },
+  {
+    "title": "Sorting Visualizer",
+    "image": "./projectImages/Sorting Visualizer.jpg",
+    "technologies": "HTML | CSS | JS",
+    "description": "Create an engaging Sorting Visualizer project using HTML, CSS, and JavaScript, where users can witness sorting algorithms like Bubble Sort and Merge Sort in action. Watch as the algorithms dynamically rearrange elements, providing a visually informative and interactive experience.",
+    "github": "https://github.com/Satyam6767/Sorting_visualizer/tree/main",
+    "deployed": "https://sorting-visualizer-ecru.vercel.app/",
+    "bgcolor": "#ffcc33",
+    "id": "8"
   }
+
+
 ]
