@@ -1,7 +1,7 @@
 [
   {
     "title": "Anime Collections",
-    "image": "./projectImages/anime.jpg",
+    "image": "./projectImages/anime1.jpg",
     "description": "Web-app for anime lover. Colections of many anime .",
     "technologies": "HTML | CSS | Javascript | React",
     "github": "https://github.com/Satyam6767/Anime_Collection/tree/main",
@@ -65,7 +65,7 @@
 
   {
     "title": "Sbi-Dashboard",
-    "image": "./projectImages/sbiDashboard.jpg",
+    "image": "./projectImages/sbidashboard.jpg",
     "technologies": "HTML | CSS |Bootstrap | JS | React ",
     "description": " Develop a user-friendly SBI Dashboard displaying revenue across different quarters. Using HTML, CSS, and JavaScript, I'm creating a simple yet effective website where you can easily view and manage your revenue data.",
     "github": "https://github.com/Satyam6767/sbi-Dashboard",
