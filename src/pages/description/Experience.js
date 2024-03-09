@@ -7,7 +7,7 @@ function Experience() {
   const param = useParams("id");
   const data = experienceData.filter(function (el) {
     return (
-      el.id == param.id
+      el.id === param.id
     );
   })[0];
 

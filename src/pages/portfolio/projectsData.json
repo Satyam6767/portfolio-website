@@ -1,7 +1,7 @@
 [
   {
     "title": "Anime Collections",
-    "image": "./projectImages/anime1.jpg",
+    "image": "",
     "description": "Web-app for anime lover. Colections of many anime .",
     "technologies": "HTML | CSS | Javascript | React",
     "github": "https://github.com/Satyam6767/Anime_Collection/tree/main",
