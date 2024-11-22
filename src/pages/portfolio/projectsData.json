@@ -1,7 +1,7 @@
 [
   {
     "title": "Online Shopping ",
-    "image": "./projectImages/soppin-cart.jpg",
+    "image": "./projectImages/soppin-cart.JPG",
     "description": "An Online Shopping E-Commerce platform for seamless product exploration and shopping.",
     "technologies": "HTML | CSS | Javascript | Express | Node",
     "github": "https://github.com/Satyam6767/Online_shopping",
@@ -21,7 +21,7 @@
   },
   {
     "title": "Painting Wala",
-    "image": "./projectImages/painting.jpg",
+    "image": "./projectImages/painting.JPG",
     "description": "Developed a web app to enhance user experience and increase client inquiries.",
     "technologies": "HTML | CSS | Bootstrap | Javascript",
     "github": "https://github.com/Satyam6767/Painting",
@@ -31,7 +31,7 @@
   },
   {
     "title": "Anime Collections",
-    "image": "./projectImages/Anime1.jpg",
+    "image": "./projectImages/Anime1.JPG",
     "description": "Web-app for anime lover. Colections of many anime .",
     "technologies": "HTML | CSS | Javascript | React",
     "github": "https://github.com/Satyam6767/Anime_Collection/tree/main",
@@ -41,7 +41,7 @@
   },
   {
     "title": "Crypto Coin", 
-    "image": "./projectImages/crypto.jpg",
+    "image": "./projectImages/crypto.JPG",
     "technologies": " HTML | JS | React | CoinGecko API |Chart.js",
     "description": "Developed a web application to provide real-time cryptocurrency price checking. The app allows users to track the latest prices of various cryptocurrencies and includes a dynamic graph for visualizing price trends over time.",
     "github": "https://github.com/Satyam6767/Price_viewer",
@@ -51,7 +51,7 @@
   },
   {
     "title": "Twitter Clone",
-    "image": "./projectImages/twitter.jpg",
+    "image": "./projectImages/twitter.JPG",
     "technologies": "HTML | JS | React | Node | MongoDB | Express",
     "description": "Make a Twitter clone app which have these functions - Create account, delete account, follow, unfollow, tweet, like",
     "github": "https://github.com/Satyam6767/clone_twitter",
@@ -62,7 +62,7 @@
 
   {
     "title": "50-DSA-Problem",
-    "image": "./projectImages/50-dsa-prblm.jpg",
+    "image": "./projectImages/50-dsa-prblm.JPG",
     "technologies": "HTML | CSS |Bootstrap | JS ",
     "description": " Developed a Web-app For solving dsa problem.",
     "github": "https://github.com/Satyam6767/50_DSA_Problems",
@@ -74,7 +74,7 @@
 
   {
     "title": "Task Management",
-    "image": "./projectImages/task managemet.jpg",
+    "image": "./projectImages/task managemet.JPG",
     "technologies": "HTML | JS | React | Node | MongoDB | Express",
     "description": "Make a task management system for where we can add a task , remove a task. And the data is stored on MongoDb",
     "github": "https://github.com/Satyam6767/Task-management-system",
@@ -85,7 +85,7 @@
 
   {
     "title": "Destination Explorer",
-    "image": "./projectImages/destination.jpg",
+    "image": "./projectImages/destination.JPG",
     "technologies": "HTML | CSS | Bootstrap | JS | React | Node ",
     "description": "Create an immersive Destination Explorer application that allows users to seamlessly discover and organize their travel plans. Incorporate features to add and remove destinations",
     "github": "https://github.com/Satyam6767/Destination_explorer",
@@ -96,7 +96,7 @@
 
   {
     "title": "HealthCare", 
-    "image": "./projectImages/healthcare.jpg",
+    "image": "./projectImages/healthcare.JPG",
     "technologies": " HTML | CSS | JS ",
     "description": "Build a friendly Hospital Website where people can easily find and manage their medical appointments or records. I'm using simple technologies like HTML, CSS, and JavaScript to make it easy for everyone to use.",
     "github": "https://github.com/Satyam6767/HealthCare",
@@ -107,7 +107,7 @@
 
   {
     "title": "Sbi-Dashboard",
-    "image": "./projectImages/sbidashboard.jpg",
+    "image": "./projectImages/sbidashboard.JPG",
     "technologies": "HTML | CSS |Bootstrap | JS | React ",
     "description": " Develop a user-friendly SBI Dashboard displaying revenue across different quarters. Using HTML, CSS, and JavaScript, I'm creating a simple yet effective website where you can easily view and manage your revenue data.",
     "github": "https://github.com/Satyam6767/sbi-Dashboard",
@@ -117,7 +117,7 @@
   },
   {
     "title": "Sorting Visualizer",
-    "image": "./projectImages/sortingvisualizer.jpg",
+    "image": "./projectImages/sortingvisualizer.JPG",
     "technologies": "HTML | CSS | JS",
     "description": "Create an engaging Sorting Visualizer project using HTML, CSS, and JavaScript, where users can witness sorting algorithms like Bubble Sort and Merge Sort in action. Watch as the algorithms dynamically rearrange elements, providing a visually informative and interactive experience.",
     "github": "https://github.com/Satyam6767/Sorting_visualizer/tree/main",
