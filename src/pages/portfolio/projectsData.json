@@ -1,13 +1,43 @@
 [
   {
+    "title": "Online Shopping ",
+    "image": "./projectImages/soppin-cart.jpg",
+    "description": "An Online Shopping E-Commerce platform for seamless product exploration and shopping.",
+    "technologies": "HTML | CSS | Javascript | Express | Node",
+    "github": "https://github.com/Satyam6767/Online_shopping",
+    "deployed": "https://satyam-online-shoping.onrender.com/",
+    "bgcolor": "skyblue",
+    "id": "1"
+  },
+  {
+    "title": "Let's-Chat",
+    "image": "./projectImages/lets-chat.JPG",
+    "technologies": " HTML | Chakra UI | JavaScript | React.js | Node.js | MongoDB | Socket.IO",
+    "description": "Created an interactive full stack chat application featuring real-time messaging",
+    "github": "https://github.com/Satyam6767/Lets--Chat",
+    "deployed": "https://lets-chat-lrwj.onrender.com/",
+    "bgcolor": "#ffcc33",
+    "id": "2"
+  },
+  {
+    "title": "Painting Wala",
+    "image": "./projectImages/painting.jpg",
+    "description": "Developed a web app to enhance user experience and increase client inquiries.",
+    "technologies": "HTML | CSS | Bootstrap | Javascript",
+    "github": "https://github.com/Satyam6767/Painting",
+    "deployed": "https://paintingwala.co.in/",
+    "bgcolor": "brown",
+    "id": "2"
+  },
+  {
     "title": "Anime Collections",
-    "image": "",
+    "image": "./projectImages/Anime1.jpg",
     "description": "Web-app for anime lover. Colections of many anime .",
     "technologies": "HTML | CSS | Javascript | React",
     "github": "https://github.com/Satyam6767/Anime_Collection/tree/main",
     "deployed": "https://anime-collection-rho.vercel.app/",
     "bgcolor": "#f37737",
-    "id": "1"
+    "id": "3"
   },
   {
     "title": "Crypto Coin", 
@@ -17,7 +47,7 @@
     "github": "https://github.com/Satyam6767/Price_viewer",
     "deployed": "",
     "bgcolor": "#29cbe0",
-    "id": "2"
+    "id": "4"
   },
   {
     "title": "Twitter Clone",
@@ -27,8 +57,20 @@
     "github": "https://github.com/Satyam6767/clone_twitter",
     "deployed": "https://clone-twitter-8knz.vercel.app/",
     "bgcolor": "#6c4bf4",
-    "id": "3"
+    "id": "5"
   },
+
+  {
+    "title": "50-DSA-Problem",
+    "image": "./projectImages/50-dsa-prblm.jpg",
+    "technologies": "HTML | CSS |Bootstrap | JS ",
+    "description": " Developed a Web-app For solving dsa problem.",
+    "github": "https://github.com/Satyam6767/50_DSA_Problems",
+    "deployed": "https://50-dsa-problems.vercel.app/",
+    "bgcolor": "#6c4bf4",
+    "id": "6"
+  },
+  
 
   {
     "title": "Task Management",

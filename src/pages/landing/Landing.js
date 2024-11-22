@@ -3,6 +3,7 @@ import Typewriter from "typewriter-effect";
 import landingImage from "../../images/me.svg";
 import Draw from "../../components/Draw";
 import SocialIcons from "../../components/SocialIcons";
+import Portfolio from "../../pages/portfolio/Portfolio"
 
 const Landing = ({ name }) => {
   const styles = {
@@ -40,37 +41,43 @@ const Landing = ({ name }) => {
   };
 
   return (
-    <section className="landing" style={styles.landing}>
-      
-      <div className="textContainer" style={styles.textContainer}>
-        <h1 className="name" style={styles.name}>
-          {name}
-        </h1>
-        <div className="description">
-          <Typewriter
-            className="description"
-            onInit={(typewriter) => {
-              typewriter
-                .changeDelay(80)
-                .typeString("I'm a Software Engineer")
-                .pauseFor(1500)
-                .deleteAll()
-                .typeString("I'm a Full Stack Developer")
-                .pauseFor(1500)
-                .deleteAll()
-                .typeString("Code. ")
-                .pauseFor(500)
-                .typeString("Create. ")
-                .pauseFor(500)
-                .typeString("Solve Problems.")
+    <>
+      <section className="landing" style={styles.landing}>
 
-                .start();
-            }}
-          />
+        <div className="textContainer" style={styles.textContainer}>
+          <h1 className="name" style={styles.name}>
+            {name}
+          </h1>
+          <div className="description">
+            <Typewriter
+              className="description"
+              onInit={(typewriter) => {
+                typewriter
+                  .changeDelay(80)
+                  .typeString("I'm a Software Engineer")
+                  .pauseFor(1500)
+                  .deleteAll()
+                  .typeString("I'm a Full Stack Developer")
+                  .pauseFor(1500)
+                  .deleteAll()
+                  .typeString("Code. ")
+                  .pauseFor(500)
+                  .typeString("Create. ")
+                  .pauseFor(500)
+                  .typeString("Solve Problems.")
+
+                  .start();
+              }}
+            />
+          </div>
         </div>
-      </div>
-      <SocialIcons />
-    </section>
+
+
+        <SocialIcons />
+      </section>
+
+      <Portfolio />
+    </>
   );
 };
 
